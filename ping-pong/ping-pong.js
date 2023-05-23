@@ -19,7 +19,7 @@ const p2Colour = "black";
 
 var ballX = 0.5 * K;
 var ballY = 0.5 * K;
-const V = 5;
+const V = 10;
 var ballSpeedX = V;
 var ballSpeedY = 0.4 * V;
 const ballSize = 0.5 * K;
